@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preference</string>
+    <string name="type_your_note">Type Your Note</string>
+    <string name="type_here">Type Here</string>
+    <string name="submit">Submit</string>
+    <string name="display">Display</string>
+</resources>
